@@ -35,6 +35,7 @@ body:
   - type: textarea
     id: reproduction
     attributes:
+      description: Explain your issue in detail.
       label: Steps to reproduce
       description: How you happened across the issue, and what exactly you did to make the bug happen.
     validations:
